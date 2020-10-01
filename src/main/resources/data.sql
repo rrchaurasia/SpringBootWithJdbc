@@ -6,3 +6,5 @@ location varchar(255),
 birth_date timestamp,
 primary key(id)
 );
+
+insert into person(id,name,location,birth_date) values (1,'rahul','bangalore',sysdate());

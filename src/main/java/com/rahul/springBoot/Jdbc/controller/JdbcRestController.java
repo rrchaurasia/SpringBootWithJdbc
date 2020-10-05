@@ -11,6 +11,7 @@ import org.springframework.web.bind.annotation.RestController;
 import com.rahul.springBoot.Jdbc.entity.Person;
 import com.rahul.springBoot.Jdbc.service.JdbcService;
 
+//restController
 @RestController
 public class JdbcRestController {		
 	
